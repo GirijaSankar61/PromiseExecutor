@@ -1,7 +1,7 @@
 public class App {
   static int a=5;
   public static void main(String[] args) {
-      //added some comment
+      //added some comments
     System.out.println("Hello From Core");
   }
 }
